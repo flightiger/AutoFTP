@@ -19,10 +19,10 @@
 
 ##关于作者
 
-```javascript
+javascript
 var ihubo = {
   nickName  : "Flightiger",
   site : "http://www.rootman.top"
 }
-```
+
 Edit By [Flightiger](http://www.rootman.top)
