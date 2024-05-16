@@ -12,7 +12,7 @@
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 * 邮件(8120182@qq.com)
-* twitter: [Flightiger](http://twitter.com/kevinzyc)
+* twitter: [Flightiger](http://twitter.com/RunningCameraTV)
 
 ##捐助开发者
 在兴趣的驱动下,写一个`免费`的东西，有欣喜，也还有汗水，希望你喜欢我的作品，同时也能支持一下。
